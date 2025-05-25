@@ -8,4 +8,5 @@ public abstract class Vehicle {
     }
 
     public abstract void updateTyre();
+    public abstract void performService(); // Новый абстрактный метод
 }
